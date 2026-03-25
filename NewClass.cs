@@ -8,5 +8,10 @@ namespace vjezba1_mp
 {
     internal class NewClass
     {
+        public void Metoda()
+        {
+
+        }
     }
+
 }
