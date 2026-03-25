@@ -12,6 +12,7 @@ namespace vjezba1_mp
         {
 
         }
+        Console.promjena2
     }
 
 }
