@@ -8,5 +8,6 @@ namespace vjezba1_mp
 {
     internal class NewClass
     {
+        Console.promjena2
     }
 }
