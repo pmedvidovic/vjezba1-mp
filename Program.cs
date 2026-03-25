@@ -3,3 +3,4 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("proba");
 Console.promjena 
 Console.novi
+Console.WriteLine("bug ispravljen");
