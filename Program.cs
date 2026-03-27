@@ -4,3 +4,4 @@ Console.WriteLine("proba");
 Console.promjena 
 Console.novi
 Console.WriteLine("bug ispravljen");
+Console.WriteLine("bug ispravljen ");
